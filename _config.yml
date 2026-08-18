@@ -4,3 +4,4 @@ plugins:
 google_analytics: G-GM5JCGXN59
 title: "Ka Wing's homepage"
 description: "Bridging Human-Robot Interaction and Psychophysics"
+show_downloads: false
