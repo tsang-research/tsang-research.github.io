@@ -1,0 +1,43 @@
+---
+# Only the main Sass file needs front matter.
+search: false
+---
+
+@charset "utf-8";
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
+$info-color: #7852a9;
+$link-color: #7852a9;
+@import "minimal-mistakes";
+
+/* Photography marquee */
+.photo-marquee {
+  overflow: hidden;
+  margin: 1.5rem 0;
+}
+
+.photo-marquee__track {
+  display: flex;
+  width: max-content;
+  animation: kw-photo-marquee 24s linear infinite;
+}
+
+.photo-marquee__track img {
+  flex: 0 0 auto;
+  width: 240px;
+  height: 150px;
+  margin-right: 1rem;
+  border-radius: 4px;
+  object-fit: cover;
+}
+
+@keyframes kw-photo-marquee {
+  from { transform: translateX(0); }
+  to { transform: translateX(-50%); }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .photo-marquee__track {
+    animation: none;
+  }
+}
