@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="Scholar pillar photo placeholder">
-  <rect width="800" height="500" fill="#ffffff"/>
-  <rect x="24" y="24" width="752" height="452" rx="16" fill="#f7f7f7" stroke="#e0e0e0" stroke-width="2"/>
-  <circle cx="400" cy="188" r="76" fill="#ffffff" stroke="#7a8288" stroke-width="4"/>
-  <path d="M360 188c0-18 18-30 40-30s40 12 40 30M369 198c0 22 14 36 31 36s31-14 31-36" fill="none" stroke="#7a8288" stroke-linecap="round" stroke-width="6"/>
-  <text x="400" y="342" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="42" font-weight="700" fill="#3d4144">Scholar</text>
-  <text x="400" y="392" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="18" font-weight="700" letter-spacing="2" fill="#7a8288">REPLACE WITH PHOTO</text>
-</svg>
