@@ -98,23 +98,66 @@ In many ways, this way of seeing also shapes how I approach research.
 
 <div class="photo-marquee">
   <div class="photo-marquee__track">
-    <img src="/assets/images/photo-1.jpg" alt="Photography sample 1">
-    <img src="/assets/images/photo-2.jpg" alt="Photography sample 2">
-    <img src="/assets/images/photo-3.jpg" alt="Photography sample 3">
-    <img src="/assets/images/photo-4.jpg" alt="Photography sample 4">
-    <img src="/assets/images/photo-5.jpg" alt="Photography sample 5">
-    <img src="/assets/images/photo-6.jpg" alt="Photography sample 6">
-    <img src="/assets/images/photo-7.jpg" alt="Photography sample 7">
-    <img src="/assets/images/photo-8.jpg" alt="Photography sample 8">
-    <img src="/assets/images/photo-9.jpg" alt="Photography sample 9">
-    <img src="/assets/images/photo-1.jpg" alt="Photography sample 1">
-    <img src="/assets/images/photo-2.jpg" alt="Photography sample 2">
-    <img src="/assets/images/photo-3.jpg" alt="Photography sample 3">
-    <img src="/assets/images/photo-4.jpg" alt="Photography sample 4">
-    <img src="/assets/images/photo-5.jpg" alt="Photography sample 5">
-    <img src="/assets/images/photo-6.jpg" alt="Photography sample 6">
-    <img src="/assets/images/photo-7.jpg" alt="Photography sample 7">
-    <img src="/assets/images/photo-8.jpg" alt="Photography sample 8">
-    <img src="/assets/images/photo-9.jpg" alt="Photography sample 9">
+    <a class="photo-marquee__item" href="/assets/images/photo-1.jpg"><img src="/assets/images/photo-1.jpg" alt="Travel photo 1"></a>
+    <a class="photo-marquee__item" href="/assets/images/photo-2.jpg"><img src="/assets/images/photo-2.jpg" alt="Travel photo 2"></a>
+    <a class="photo-marquee__item" href="/assets/images/photo-3.jpg"><img src="/assets/images/photo-3.jpg" alt="Travel photo 3"></a>
+    <a class="photo-marquee__item" href="/assets/images/photo-4.jpg"><img src="/assets/images/photo-4.jpg" alt="Travel photo 4"></a>
+    <a class="photo-marquee__item" href="/assets/images/photo-5.jpg"><img src="/assets/images/photo-5.jpg" alt="Travel photo 5"></a>
+    <a class="photo-marquee__item" href="/assets/images/photo-6.jpg"><img src="/assets/images/photo-6.jpg" alt="Travel photo 6"></a>
+    <a class="photo-marquee__item" href="/assets/images/photo-7.jpg"><img src="/assets/images/photo-7.jpg" alt="Travel photo 7"></a>
+    <a class="photo-marquee__item" href="/assets/images/photo-8.jpg"><img src="/assets/images/photo-8.jpg" alt="Travel photo 8"></a>
+    <a class="photo-marquee__item" href="/assets/images/photo-9.jpg"><img src="/assets/images/photo-9.jpg" alt="Travel photo 9"></a>
+
+    <a class="photo-marquee__item" href="/assets/images/photo-1.jpg"><img src="/assets/images/photo-1.jpg" alt="Travel photo 1"></a>
+    <a class="photo-marquee__item" href="/assets/images/photo-2.jpg"><img src="/assets/images/photo-2.jpg" alt="Travel photo 2"></a>
+    <a class="photo-marquee__item" href="/assets/images/photo-3.jpg"><img src="/assets/images/photo-3.jpg" alt="Travel photo 3"></a>
+    <a class="photo-marquee__item" href="/assets/images/photo-4.jpg"><img src="/assets/images/photo-4.jpg" alt="Travel photo 4"></a>
+    <a class="photo-marquee__item" href="/assets/images/photo-5.jpg"><img src="/assets/images/photo-5.jpg" alt="Travel photo 5"></a>
+    <a class="photo-marquee__item" href="/assets/images/photo-6.jpg"><img src="/assets/images/photo-6.jpg" alt="Travel photo 6"></a>
+    <a class="photo-marquee__item" href="/assets/images/photo-7.jpg"><img src="/assets/images/photo-7.jpg" alt="Travel photo 7"></a>
+    <a class="photo-marquee__item" href="/assets/images/photo-8.jpg"><img src="/assets/images/photo-8.jpg" alt="Travel photo 8"></a>
+    <a class="photo-marquee__item" href="/assets/images/photo-9.jpg"><img src="/assets/images/photo-9.jpg" alt="Travel photo 9"></a>
   </div>
 </div>
+
+<div class="photo-lightbox" id="photo-lightbox">
+  <button class="photo-lightbox__close" type="button" aria-label="Close">&times;</button>
+  <img id="photo-lightbox-image" src="" alt="">
+</div>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    const lightbox = document.getElementById("photo-lightbox");
+    const lightboxImage = document.getElementById("photo-lightbox-image");
+    const closeButton = lightbox.querySelector(".photo-lightbox__close");
+    const links = document.querySelectorAll(".photo-marquee__item");
+
+    links.forEach((link) => {
+      link.addEventListener("click", function (event) {
+        event.preventDefault();
+        lightboxImage.src = link.getAttribute("href");
+        lightboxImage.alt = link.querySelector("img")?.alt || "";
+        lightbox.classList.add("is-open");
+      });
+    });
+
+    closeButton.addEventListener("click", function () {
+      lightbox.classList.remove("is-open");
+      lightboxImage.src = "";
+    });
+
+    lightbox.addEventListener("click", function (event) {
+      if (event.target === lightbox) {
+        lightbox.classList.remove("is-open");
+        lightboxImage.src = "";
+      }
+    });
+
+    document.addEventListener("keydown", function (event) {
+      if (event.key === "Escape") {
+        lightbox.classList.remove("is-open");
+        lightboxImage.src = "";
+      }
+    });
+  });
+</script>
