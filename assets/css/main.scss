@@ -59,10 +59,11 @@ body {
 
 .pillar-grid {
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
-  gap: 1.25rem;
-  margin: 1.5rem 0 2rem;
-  align-items: stretch;
+  grid-template-columns: repeat(3, minmax(0, 220px));
+  justify-content: center;
+  gap: 1rem;
+  margin: 1.5rem auto 2rem;
+  max-width: 760px;
 }
 
 .pillar-card {
@@ -99,7 +100,7 @@ body {
   right: 1rem;
   z-index: 1;
   font-family: "Cormorant Garamond", serif;
-  font-size: 1.2rem;
+  font-size: 1.05rem;
   font-weight: 600;
   line-height: 1.1;
   color: #fff;
@@ -118,7 +119,29 @@ body {
 @media (max-width: 768px) {
   .pillar-grid {
     grid-template-columns: 1fr;
+    max-width: 320px;
   }
+}
+
+/* Photography marquee */
+.photo-marquee {
+  overflow: hidden;
+  margin: 1.5rem 0;
+}
+
+.photo-marquee__track {
+  display: flex;
+  width: max-content;
+  animation: kw-photo-marquee 24s linear infinite;
+}
+
+.photo-marquee__track img {
+  flex: 0 0 auto;
+  width: 240px;
+  height: 150px;
+  margin-right: 1rem;
+  border-radius: 4px;
+  object-fit: cover;
 }
 
 @keyframes kw-photo-marquee {
