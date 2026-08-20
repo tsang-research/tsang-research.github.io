@@ -4,7 +4,7 @@
 
 **Human-Robot Interaction Researcher | Ergonomics Designer | Community Advocate**
 
-![Ka Wing headshot](/assets/images/headshot.svg.JPG){: .align-right width="180"}
+![Ka Wing headshot](/assets/images/headshot.svg.JPG){: .align-right width="90"}
 
 <p class="intro-bio">
 Hi there! I'm Ka Wing.
