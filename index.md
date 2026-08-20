@@ -75,7 +75,7 @@ Hi there! I'm **Ka Wing**, a Year 3 PhD Candidate at The Hong Kong Polytechnic U
 {: #news}
 
 - **August 2026:** Won the **Gold Award** at *2026 ACED Human-Centered Design Challenge - Global Edition*.
-- **August 2026** Championing the voice of Hong Kong's design sector in the 2026 Policy Address Public Consultation.
+- **August 2026** Championing the voice of Hong Kong's design sector in the Policy Address Public Consultation.
 - **May 2026:** Awarded with *For Our Future Innovation and Technology Scholarship 2025/26*, receiving HKD80,000 in support of his STEM research project, Designing for Touch: Sensory Affordances of Companion Robot Dog Skin in Human–Robot Interaction.
 
 ## Contact
