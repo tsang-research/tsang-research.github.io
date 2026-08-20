@@ -56,26 +56,27 @@ Hi there! I'm **Ka Wing**, a Year 3 PhD Candidate at The Hong Kong Polytechnic U
 
 {: #design-innovation}
 
-- **Designing for Touch:** Robotic companion project supported by **$80k STEM funding**.
-- **ADHD AI screening tool:** Award-winning entrepreneurship project.
-- **BOC Hackathon:** Award-winning product and service concept.
-- **Professional impact:** Previously drove business transformation and service design for Fortune 500 clients at **EY, Deloitte, and Alibaba**.
+- **Gold Award at 2026 ACED Human-Centered Design Challenge - Global Edition:** *Turns Teaching into Award-Winning Innovation.* Developed a lightweight upper-limb powered exoskeleton prototype designed to alleviate shoulder strain and physical workload for middle-aged and elderly designers.
+- **BOC Fintech Hackathon Young Talent Award:** Delivered an online banking customer experience improvement proposal to CIO of Bank of China.
+- **HKUST 1 Million Dollar Entrepreneurship Competition Best Student Team Award:** Co-founded the first local ADHD and Autism AI-powered screening tool, shaping the go-to-market strategy partnerships with clinics.
+- **Science Park Technology and Entrepreneurship Programme Grantee 2019**: receiving HKD100,000 in support of his innovation project.
+- **Cyberport Creative Micro Fund Cross-border Programme Grantee 2016**: receiving HKD100,000 in support of his innovation project.
 
 ## Community Participation
 
 {: #community-participation}
 
-- **Shatin District Youth Community Building Committee:** Applied design expertise to revitalize the **Shing Mun Riverside fitness corners** and improve public health spaces.
-- **HKUSTSU Founder:** Founded and led a student organization.
 - **PolyU Student Representative:** Represented student interests in university governance.
-- **Scout Council:** Supported youth leadership and community programs.
+- **Scout Council:** Awarded with Professor Edmond Ko Scholarships for Student Mentoring by HKUST.
+- **Junior Mentor:** Supported youth leadership and community programs.
 
 ## News
 
 {: #news}
 
-- **August 2026:** Awarded the **For Our Future Innovation Scholarship**.
-- **July 2026:** Won the **Gold Award at the ACED Design Challenge**.
+- **August 2026:** Won the **Gold Award** at *2026 ACED Human-Centered Design Challenge - Global Edition*.
+- **August 2026** Championing the voice of Hong Kong's design sector in the 2026 Policy Address Public Consultation.
+- **May 2026:** Awarded with *For Our Future Innovation and Technology Scholarship 2025/26*, receiving HKD80,000 in support of his STEM research project, Designing for Touch: Sensory Affordances of Companion Robot Dog Skin in Human–Robot Interaction.
 
 ## Contact
 
