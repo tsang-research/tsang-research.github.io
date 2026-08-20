@@ -32,6 +32,7 @@ Hi there! I'm Ka Wing, a Year 3 PhD Candidate at The Hong Kong Polytechnic Unive
 </div>
 
 ## Research & Publication
+{: #research-publication}
 
 ### Human-Robot Interaction & Tactile Design
 
@@ -47,7 +48,8 @@ Hi there! I'm Ka Wing, a Year 3 PhD Candidate at The Hong Kong Polytechnic Unive
 - **CHI:** *Peng, Z., Ma, X., Yang, D., **Tsang, K. W.**, & Guo, Q. (2021). Effects of support-seekers’ community knowledge on their expressed satisfaction with the received comments in mental health communities. Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems (CHI 2021), 1–12.*
 - **CHI:** *Peng, Z., Guo, Q., **Tsang, K. W.**, & Ma, X. (2020). Exploring the effects of technological writing assistance for support providers in online mental health community. Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems (CHI 2020), 1–15.*
 
-### Design for Industry
+## Design & Innovation Award
+{: #design-innovation}
 
 - **VIS:** ***Tsang, K. W.**, Li, H., Lam, F. M., Mu, Y., Wang, Y., & Qu, H. (2020). Tradao: A visual analytics system for trading algorithm optimization. 2020 IEEE Visualization Conference (VIS 2020), 61–65.*
 
@@ -61,7 +63,7 @@ Hi there! I'm Ka Wing, a Year 3 PhD Candidate at The Hong Kong Polytechnic Unive
 - **Cyberport Creative Micro Fund Cross-border Programme Grantee 2016**: receiving HKD100,000 in support of his innovation project.
 
 ## Community Participation
-
+{: #community-participation}
 
 - **PolyU Student Representative:** Represented student interests in university governance. [Website]((https://www.polyu.edu.hk/sao/student-development-section/student-participation-in-university-governance/the-list-of-council-student-member-and-student-representative-2025-26/health-and-dental-service/)){: .btn .btn--info .btn--small}
 - **Junior Mentor:** Served as an active Student Councilor and Mindfulness Ambassador. Recipient of the *Professor Edmond Ko Scholarship for Student Mentoring* at HKUST. [Website]((https://sfao.hkust.edu.hk/individual.php?l=86)){: .btn .btn--info .btn--small}
