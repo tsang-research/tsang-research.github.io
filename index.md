@@ -6,13 +6,9 @@
 Hi there! I'm Ka Wing, a Year 3 PhD Candidate at The Hong Kong Polytechnic University. I am a junior researcher and designer dedicated to making human-robot interactions more empathetic and emotionally meaningful.
 </p>
 
-<p class="intro-bio">
-Background: A BBA in Finance and MPhil in Engineering from HKUST (where a passion for HCI began), plus professional experience in tech-driven business transformation at Deloitte and EY. PolyU Design is now my academic home, nurturing my focus on ergonomics and human-centered design.
-</p>
+**Background**: A BBA in Finance and MPhil in Engineering from HKUST (where a passion for HCI began), plus professional experience in tech-driven business transformation at Deloitte and EY. PolyU Design is now my academic home, nurturing my focus on ergonomics and human-centered design.
 
-<p class="intro-bio">
-Research Focus: My doctoral research currently addresses a vital blind spot in the tactile experience of companion robotics. While standard engineering often prioritizes hard, durable plastics for quadruped robots, this project investigates how a robot's physical "feel" shapes user expectations and emotional bonds. By treating robot surface as integral to the interaction rather than just passive coverings, the goal is to design attachment-oriented robots capable of becoming long-term, comforting companions for human wellbeing.
-</p>
+**Research Focus**: My doctoral research currently addresses a vital blind spot in the tactile experience of companion robotics. While standard engineering often prioritizes hard, durable plastics for quadruped robots, this project investigates how a robot's physical "feel" shapes user expectations and emotional bonds. By treating robot surface as integral to the interaction rather than just passive coverings, the goal is to design attachment-oriented robots capable of becoming long-term, comforting companions for human wellbeing.
 
 [Email Me](mailto:kawing-sd.tsang@connect.polyu.hk){: .btn .btn--info}
 
