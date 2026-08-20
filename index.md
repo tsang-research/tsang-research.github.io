@@ -7,7 +7,7 @@ Hi there! I'm Ka Wing, a Year 3 PhD Candidate at The Hong Kong Polytechnic Unive
 </p>
 
 <p class="intro-bio">
-Background: A BBA and MPhil in Engineering from HKUST (where a passion for HCI began), plus professional experience in tech-driven business transformation at Deloitte and EY. PolyU Design is now my academic home, nurturing my focus on ergonomics and human-centered design.
+Background: A BBA in Finance and MPhil in Engineering from HKUST (where a passion for HCI began), plus professional experience in tech-driven business transformation at Deloitte and EY. PolyU Design is now my academic home, nurturing my focus on ergonomics and human-centered design.
 </p>
 
 <p class="intro-bio">
