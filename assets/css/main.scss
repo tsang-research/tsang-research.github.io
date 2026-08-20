@@ -57,19 +57,31 @@ body {
 
 /* Pillar Grid */ 
 
+.pillar-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1.25rem;
+  margin: 1.5rem 0 2rem;
+  align-items: stretch;
+}
+
 .pillar-card {
   position: relative;
   display: block;
+  width: 100%;
+  aspect-ratio: 4 / 5;
   overflow: hidden;
   border-radius: 14px;
   text-decoration: none;
   color: white;
+  background: #ddd;
 }
 
 .pillar-card img {
-  display: block;
+  position: absolute;
+  inset: 0;
   width: 100%;
-  aspect-ratio: 4 / 5;
+  height: 100%;
   object-fit: cover;
 }
 
@@ -77,7 +89,7 @@ body {
   content: "";
   position: absolute;
   inset: 0;
-  background: linear-gradient(to top, rgba(0, 0, 0, 0.35), rgba(0, 0, 0, 0.08));
+  background: linear-gradient(to top, rgba(0, 0, 0, 0.38), rgba(0, 0, 0, 0.08));
 }
 
 .pillar-card__label {
@@ -87,7 +99,7 @@ body {
   right: 1rem;
   z-index: 1;
   font-family: "Cormorant Garamond", serif;
-  font-size: 1.25rem;
+  font-size: 1.2rem;
   font-weight: 600;
   line-height: 1.1;
   color: #fff;
@@ -95,6 +107,7 @@ body {
   opacity: 0;
   transform: translateY(-6px);
   transition: opacity 0.2s ease, transform 0.2s ease;
+  pointer-events: none;
 }
 
 .pillar-card:hover .pillar-card__label {
@@ -102,25 +115,10 @@ body {
   transform: translateY(0);
 }
 
-/* Photography marquee */
-.photo-marquee {
-  overflow: hidden;
-  margin: 1.5rem 0;
-}
-
-.photo-marquee__track {
-  display: flex;
-  width: max-content;
-  animation: kw-photo-marquee 24s linear infinite;
-}
-
-.photo-marquee__track img {
-  flex: 0 0 auto;
-  width: 240px;
-  height: 150px;
-  margin-right: 1rem;
-  border-radius: 4px;
-  object-fit: cover;
+@media (max-width: 768px) {
+  .pillar-grid {
+    grid-template-columns: 1fr;
+  }
 }
 
 @keyframes kw-photo-marquee {
