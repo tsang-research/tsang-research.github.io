@@ -40,6 +40,7 @@ Hi there! I'm **Ka Wing**, a Year 3 PhD Candidate at The Hong Kong Polytechnic U
 - **RO-MAN:** ***Tsang, K. W.**, Zhu, A., Wang, Y., & Luximon, Y. (2026). Tactile zoning for quadruped companion robots: User expectations and body-region material mappings. The 35th IEEE International Conference on Robot and Human Interactive Communication.*
 - **ICSR+Art:** ***Tsang, K. W.**, Wang, Y., Zhang, K., & Luximon, Y. (2026). Toward attachment-oriented robot skin design: A conceptual framework and exploratory study. The 18th International Conference on Social Robotics.*
 - **ACED:** ***Tsang, K. W.**, Wang, Y., Zhu, A., & Luximon, Y. (2026). Tactile material preferences for quadruped robot companions: The role of ownership framing. The 5th Asian Conference for Ergonomics and Design.*
+- **DRS:** *Zhang, K., Zhang, H., **Tsang, K. W.**, Jiang, Y., Liu, S., & Siu, K. W. M. (2026). Educating inclusive human augmentation by design: A triadic definitional framework and pedagogical validation. Proceedings of the Design Research Society Conference.*
 
 ### Tech for Mental Health & Wellbeing
 
@@ -82,11 +83,8 @@ Hi there! I'm **Ka Wing**, a Year 3 PhD Candidate at The Hong Kong Polytechnic U
 
 {: #contact}
 
-[View Google Scholar](https://scholar.google.com/citations?user=YOUR_SCHOLAR_ID){: .btn .btn--info} [Email Me](mailto:your-email@example.com){: .btn .btn--info}
+[View Google Scholar](https://scholar.google.com/citations?user=YOUR_SCHOLAR_ID){: .btn .btn--info} [Email Me](kawing-sd.tsang@connect.polyu.hk){: .btn .btn--info}
 
-- **Email:** `your-email@example.com`
-- **LinkedIn:** `https://www.linkedin.com/in/your-linkedin-handle`
-- **Google Scholar:** `https://scholar.google.com/citations?user=YOUR_SCHOLAR_ID`
 
 ## Photography
 
