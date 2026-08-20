@@ -67,9 +67,9 @@ Hi there! I'm **Ka Wing**, a Year 3 PhD Candidate at The Hong Kong Polytechnic U
 
 {: #community-participation}
 
-- **PolyU Student Representative:** Represented student interests in university governance. [Profile]([https://example.com/paper.pdf](https://www.polyu.edu.hk/sao/student-development-section/student-participation-in-university-governance/the-list-of-council-student-member-and-student-representative-2025-26/health-and-dental-service/)){: .btn .btn--info .btn--small}
-- **Junior Mentor:** Served as an active Student Councilor and Mindfulness Ambassador. Recipient of the *Professor Edmond Ko Scholarship for Student Mentoring* at HKUST. [Profile]([https://example.com/paper.pdf](https://sfao.hkust.edu.hk/individual.php?l=86)){: .btn .btn--info .btn--small}
-- **Scout Council:** Supported youth leadership and community programs in local community. [Profile](https://www.stwscout.org/wp/%e5%8d%80%e5%8b%99%e5%a7%94%e5%93%a1%e6%9c%83/){: .btn .btn--info .btn--small}
+- **PolyU Student Representative:** Represented student interests in university governance. [Website]((https://www.polyu.edu.hk/sao/student-development-section/student-participation-in-university-governance/the-list-of-council-student-member-and-student-representative-2025-26/health-and-dental-service/)){: .btn .btn--info .btn--small}
+- **Junior Mentor:** Served as an active Student Councilor and Mindfulness Ambassador. Recipient of the *Professor Edmond Ko Scholarship for Student Mentoring* at HKUST. [Website]((https://sfao.hkust.edu.hk/individual.php?l=86)){: .btn .btn--info .btn--small}
+- **Scout Council:** Supported youth leadership and community programs in local community. [Website](https://www.stwscout.org/wp/%e5%8d%80%e5%8b%99%e5%a7%94%e5%93%a1%e6%9c%83/){: .btn .btn--info .btn--small}
 
 ## News
 
