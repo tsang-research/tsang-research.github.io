@@ -16,7 +16,22 @@ Hi there! I'm **Ka Wing**, a Year 3 PhD Candidate at The Hong Kong Polytechnic U
 
 ## Three Pillars
 
-{% include feature_row %}
+<div class="pillar-grid">
+  <a class="pillar-card" href="#research-publication">
+    <img src="/assets/images/pillar-scholar.svg.jpg" alt="Researcher pillar">
+    <span>Scholar</span>
+  </a>
+
+  <a class="pillar-card" href="#design-innovation">
+    <img src="/assets/images/pillar-designer.svg.jpg" alt="Designer pillar">
+    <span>Designer</span>
+  </a>
+
+  <a class="pillar-card" href="#community-participation">
+    <img src="/assets/images/pillar-advocate.svg.jpg" alt="Community advocate pillar">
+    <span>Community Advocate</span>
+  </a>
+</div>
 
 ## Research & Publication
 
