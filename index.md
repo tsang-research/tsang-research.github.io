@@ -88,7 +88,7 @@ Hi there! I'm **Ka Wing**, a Year 3 PhD Candidate at The Hong Kong Polytechnic U
 
 ## Photography
 
-A rolling collection of moments from behind the lens. Replace the placeholders below with your own photographs.
+Photography lets me slow down and attend to the quiet details of everyday life, especially while traveling. Through the lens, I am drawn to subtle light, fleeting textures, small human moments, and the overlooked beauty that often goes unnoticed. This collection reflects a more personal side of how I see the world, *attentive, curious, and deeply moved by my surroundings*. In many ways, this way of seeing also shapes how I approach research.
 
 <div class="photo-marquee">
   <div class="photo-marquee__track">
