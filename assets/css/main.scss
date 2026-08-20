@@ -206,3 +206,10 @@ body {
   font-size: 2rem;
   line-height: 1;
 }
+
+.photo-marquee__track {
+  display: flex;
+  width: max-content;
+  animation: kw-photo-marquee 36s linear infinite;
+}
+
