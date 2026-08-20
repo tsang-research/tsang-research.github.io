@@ -92,17 +92,23 @@ Photography lets me slow down and attend to the quiet details of everyday life, 
 
 <div class="photo-marquee">
   <div class="photo-marquee__track">
-    <img src="/assets/images/photo-1.svg" alt="Photography sample 1">
-    <img src="/assets/images/photo-2.svg" alt="Photography sample 2">
-    <img src="/assets/images/photo-3.svg" alt="Photography sample 3">
-    <img src="/assets/images/photo-4.svg" alt="Photography sample 4">
-    <img src="/assets/images/photo-5.svg" alt="Photography sample 5">
-    <img src="/assets/images/photo-6.svg" alt="Photography sample 6">
-    <img src="/assets/images/photo-1.svg" alt="Photography sample 1">
-    <img src="/assets/images/photo-2.svg" alt="Photography sample 2">
-    <img src="/assets/images/photo-3.svg" alt="Photography sample 3">
-    <img src="/assets/images/photo-4.svg" alt="Photography sample 4">
-    <img src="/assets/images/photo-5.svg" alt="Photography sample 5">
-    <img src="/assets/images/photo-6.svg" alt="Photography sample 6">
+    <img src="/assets/images/photo-1.jpg" alt="Photography sample 1">
+    <img src="/assets/images/photo-2.jpg" alt="Photography sample 2">
+    <img src="/assets/images/photo-3.jpg" alt="Photography sample 3">
+    <img src="/assets/images/photo-4.jpg" alt="Photography sample 4">
+    <img src="/assets/images/photo-5.jpg" alt="Photography sample 5">
+    <img src="/assets/images/photo-6.jpg" alt="Photography sample 6">
+    <img src="/assets/images/photo-7.jpg" alt="Photography sample 7">
+    <img src="/assets/images/photo-8.jpg" alt="Photography sample 8">
+    <img src="/assets/images/photo-9.jpg" alt="Photography sample 9">
+    <img src="/assets/images/photo-1.jpg" alt="Photography sample 1">
+    <img src="/assets/images/photo-2.jpg" alt="Photography sample 2">
+    <img src="/assets/images/photo-3.jpg" alt="Photography sample 3">
+    <img src="/assets/images/photo-4.jpg" alt="Photography sample 4">
+    <img src="/assets/images/photo-5.jpg" alt="Photography sample 5">
+    <img src="/assets/images/photo-6.jpg" alt="Photography sample 6">
+    <img src="/assets/images/photo-7.jpg" alt="Photography sample 7">
+    <img src="/assets/images/photo-8.jpg" alt="Photography sample 8">
+    <img src="/assets/images/photo-9.jpg" alt="Photography sample 9">
   </div>
 </div>
