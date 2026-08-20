@@ -126,38 +126,38 @@ In many ways, this way of seeing also shapes how I approach research.
 </div>
 
 <script>
-  document.addEventListener("DOMContentLoaded", function () {
-    const lightbox = document.getElementById("photo-lightbox");
-    const lightboxImage = document.getElementById("photo-lightbox-image");
-    const closeButton = lightbox.querySelector(".photo-lightbox__close");
-    const links = document.querySelectorAll(".photo-marquee__item");
+document.addEventListener("DOMContentLoaded", function () {
+  const lightbox = document.getElementById("photo-lightbox");
+  const lightboxImage = document.getElementById("photo-lightbox-image");
+  const closeButton = lightbox.querySelector(".photo-lightbox__close");
+  const links = document.querySelectorAll(".photo-marquee__item");
 
-    links.forEach((link) => {
-      link.addEventListener("click", function (event) {
-        event.preventDefault();
-        lightboxImage.src = link.getAttribute("href");
-        lightboxImage.alt = link.querySelector("img")?.alt || "";
-        lightbox.classList.add("is-open");
-      });
-    });
-
-    closeButton.addEventListener("click", function () {
-      lightbox.classList.remove("is-open");
-      lightboxImage.src = "";
-    });
-
-    lightbox.addEventListener("click", function (event) {
-      if (event.target === lightbox) {
-        lightbox.classList.remove("is-open");
-        lightboxImage.src = "";
-      }
-    });
-
-    document.addEventListener("keydown", function (event) {
-      if (event.key === "Escape") {
-        lightbox.classList.remove("is-open");
-        lightboxImage.src = "";
-      }
+  links.forEach((link) => {
+    link.addEventListener("click", function (event) {
+      event.preventDefault();
+      lightboxImage.src = link.getAttribute("href");
+      lightboxImage.alt = link.querySelector("img")?.alt || "";
+      lightbox.classList.add("is-open");
     });
   });
+
+  closeButton.addEventListener("click", function () {
+    lightbox.classList.remove("is-open");
+    lightboxImage.src = "";
+  });
+
+  lightbox.addEventListener("click", function (event) {
+    if (event.target === lightbox) {
+      lightbox.classList.remove("is-open");
+      lightboxImage.src = "";
+    }
+  });
+
+  document.addEventListener("keydown", function (event) {
+    if (event.key === "Escape") {
+      lightbox.classList.remove("is-open");
+      lightboxImage.src = "";
+    }
+  });
+});
 </script>
