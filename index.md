@@ -47,10 +47,11 @@ Hi there! I'm Ka Wing, a Year 3 PhD Candidate at The Hong Kong Polytechnic Unive
 - **Chinese CHI:** *Zhang, H., **Tsang, K. W.**, & Peng, Z. (2024). VChater: Exploring generative conversational agents for simulating exposure therapy to reduce social anxiety. Proceedings of the Twelfth International Symposium of Chinese CHI, 359–371.*
 - **CHI:** *Peng, Z., Ma, X., Yang, D., **Tsang, K. W.**, & Guo, Q. (2021). Effects of support-seekers’ community knowledge on their expressed satisfaction with the received comments in mental health communities. Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems (CHI 2021), 1–12.*
 - **CHI:** *Peng, Z., Guo, Q., **Tsang, K. W.**, & Ma, X. (2020). Exploring the effects of technological writing assistance for support providers in online mental health community. Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems (CHI 2020), 1–15.*
-
+  
 ## Design for Industry
 
 - **VIS:** ***Tsang, K. W.**, Li, H., Lam, F. M., Mu, Y., Wang, Y., & Qu, H. (2020). Tradao: A visual analytics system for trading algorithm optimization. 2020 IEEE Visualization Conference (VIS 2020), 61–65.*
+
 
 ## Design & Innovation Award
 {: #design-innovation}
