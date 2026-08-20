@@ -48,13 +48,12 @@ Hi there! I'm Ka Wing, a Year 3 PhD Candidate at The Hong Kong Polytechnic Unive
 - **CHI:** *Peng, Z., Ma, X., Yang, D., **Tsang, K. W.**, & Guo, Q. (2021). Effects of support-seekers’ community knowledge on their expressed satisfaction with the received comments in mental health communities. Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems (CHI 2021), 1–12.*
 - **CHI:** *Peng, Z., Guo, Q., **Tsang, K. W.**, & Ma, X. (2020). Exploring the effects of technological writing assistance for support providers in online mental health community. Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems (CHI 2020), 1–15.*
 
-## Design & Innovation Award
-{: #design-innovation}
+## Design for Industry
 
 - **VIS:** ***Tsang, K. W.**, Li, H., Lam, F. M., Mu, Y., Wang, Y., & Qu, H. (2020). Tradao: A visual analytics system for trading algorithm optimization. 2020 IEEE Visualization Conference (VIS 2020), 61–65.*
 
 ## Design & Innovation Award
-
+{: #design-innovation}
 
 - **Gold Award at 2026 ACED Human-Centered Design Challenge - Global Edition:** [*Turning Teaching into Award-Winning Innovation.*](https://www.instagram.com/p/DcLQ2i4lK9L/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==) Developed a lightweight upper-limb powered exoskeleton prototype designed to alleviate shoulder strain and physical workload for middle-aged and elderly designers.
 - **HKUST 1 Million Dollar Entrepreneurship Competition Best Student Team Award:** Co-founded the first local ADHD and Autism AI-powered screening tool, shaping the go-to-market strategy partnerships with clinics.
