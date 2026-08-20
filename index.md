@@ -1,9 +1,3 @@
-classes: wide
-header:
-  overlay_filter: 0
-title: ""
-
-# TSANG, Ka Wing
 
 ![Ka Wing headshot](/assets/images/headshot.svg.JPG)
 
