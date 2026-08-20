@@ -37,19 +37,20 @@ Hi there! I'm **Ka Wing**, a Year 3 PhD Candidate at The Hong Kong Polytechnic U
 
 ### Human-Robot Interaction & Tactile Design
 
-- **RO-MAN:** ***Tsang, K. W.**, Zhu, A., Wang, Y., & Luximon, Y. (2026). Tactile zoning for quadruped companion robots: User expectations and body-region material mappings. The 35th IEEE International Conference on Robot and Human Interactive Communication*
-- **ICSR+Art:** ***Tsang, K. W.**, Wang, Y., Zhang, K., & Luximon, Y. (2026). Toward attachment-oriented robot skin design: A conceptual framework and exploratory study. The 18th International Conference on Social Robotics*
-- **ACED:** ***Tsang, K. W.**, Wang, Y., Zhu, A., & Luximon, Y. (2026). Tactile material preferences for quadruped robot companions: The role of ownership framing. The 5th Asian Conference for Ergonomics and Design*
+- **RO-MAN:** ***Tsang, K. W.**, Zhu, A., Wang, Y., & Luximon, Y. (2026). Tactile zoning for quadruped companion robots: User expectations and body-region material mappings. The 35th IEEE International Conference on Robot and Human Interactive Communication.*
+- **ICSR+Art:** ***Tsang, K. W.**, Wang, Y., Zhang, K., & Luximon, Y. (2026). Toward attachment-oriented robot skin design: A conceptual framework and exploratory study. The 18th International Conference on Social Robotics.*
+- **ACED:** ***Tsang, K. W.**, Wang, Y., Zhu, A., & Luximon, Y. (2026). Tactile material preferences for quadruped robot companions: The role of ownership framing. The 5th Asian Conference for Ergonomics and Design.*
 - 
 ### Tech for Mental Health & Wellbeing
 
-- **CHI:** *\[Paper title TBD\]* — [PDF](#){: .btn .btn--info .btn--small} [Video](#){: .btn .btn--info .btn--small}
-- **AAIC:** *\[Paper title TBD\]* — [PDF](#){: .btn .btn--info .btn--small}
-- **VChater:** *\[Paper title TBD\]* — [PDF](#){: .btn .btn--info .btn--small}
+- **AAIC:** *Zhu, A., **Tsang, K. W.**, & Luximon, Y. (2026). Personalized Cognitive Stimulation Via Generative AI For Older Adults With Subjective Cognitive Decline: An fNIRS Study. The 2026 Alzheimer’s Association International Conference.* 
+- **Chinese CHI:** *Zhang, H., **Tsang, K. W.**, & Peng, Z. (2024). VChater: Exploring generative conversational agents for simulating exposure therapy to reduce social anxiety. Proceedings of the Twelfth International Symposium of Chinese CHI, 359–371.*
+- **CHI:** *Peng, Z., Ma, X., Yang, D., **Tsang, K. W.**, & Guo, Q. (2021). Effects of support-seekers’ community knowledge on their expressed satisfaction with the received comments in mental health communities. Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems (CHI 2021), 1–12.*
+- **CHI:** *Peng, Z., Guo, Q., **Tsang, K. W.**, & Ma, X. (2020). Exploring the effects of technological writing assistance for support providers in online mental health community. Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems (CHI 2020), 1–15.*
 
 ### Design for Industry
 
-- **VIS 2020:** *\[Paper title TBD\]* — [PDF](#){: .btn .btn--info .btn--small} [Video](#){: .btn .btn--info .btn--small}
+- **VIS:** ***Tsang, K. W.**, Li, H., Lam, F. M., Mu, Y., Wang, Y., & Qu, H. (2020). Tradao: A visual analytics system for trading algorithm optimization. 2020 IEEE Visualization Conference (VIS 2020), 61–65.*
 
 ## Design & Innovation
 
