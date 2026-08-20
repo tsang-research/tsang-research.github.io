@@ -10,7 +10,7 @@ Hi there! I'm **Ka Wing**, a Year 3 PhD Candidate at The Hong Kong Polytechnic U
 **Research Focus**: My doctoral research currently addresses a vital blind spot in the tactile experience of companion robotics. While standard engineering often prioritizes hard, durable plastics for quadruped robots, this project investigates how a robot's physical "feel" shapes user expectations and emotional bonds. By treating robot surface as integral to the interaction rather than just passive coverings, the goal is to design attachment-oriented robots capable of becoming long-term, comforting companions for human wellbeing.
 </p>
 
-[Email Me](kawing-sd.tsang@connect.polyu.hk){: .btn .btn--info}
+[Email Me](mailto:kawing-sd.tsang@connect.polyu.hk){: .btn .btn--info}
 
 ## The Three Pillars: Research, Design, and Community
 
