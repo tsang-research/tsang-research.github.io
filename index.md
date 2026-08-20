@@ -68,8 +68,8 @@ Hi there! I'm **Ka Wing**, a Year 3 PhD Candidate at The Hong Kong Polytechnic U
 {: #community-participation}
 
 - **PolyU Student Representative:** Represented student interests in university governance.
-- **Scout Council:** Awarded with Professor Edmond Ko Scholarships for Student Mentoring by HKUST.
-- **Junior Mentor:** Supported youth leadership and community programs.
+- **Junior Mentor:** Served as an active Student Councilor and Mindfulness Ambassador. Recipient of the *Professor Edmond Ko Scholarship for Student Mentoring* at HKUST.
+- **Scout Council:** Supported youth leadership and community programs in local community.
 
 ## News
 
