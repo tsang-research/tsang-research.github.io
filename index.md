@@ -1,4 +1,4 @@
-# TSANG, K.W
+# TSANG, Ka Wing
 
 ![Ka Wing headshot](/assets/images/headshot.svg.JPG)
 
@@ -10,7 +10,7 @@ Hi there! I'm **Ka Wing**, a Year 3 PhD Candidate at The Hong Kong Polytechnic U
 **Research Focus**: My doctoral research currently addresses a vital blind spot in the tactile experience of companion robotics. While standard engineering often prioritizes hard, durable plastics for quadruped robots, this project investigates how a robot's physical "feel" shapes user expectations and emotional bonds. By treating robot surface as integral to the interaction rather than just passive coverings, the goal is to design attachment-oriented robots capable of becoming long-term, comforting companions for human wellbeing.
 </p>
 
-[Email Me](kawing-sd.tsang@connect.polyu.hk){: .btn .btn--info}
+[Email Me](kawing-sd.tsang@connect.polyu.hk) {: .btn .btn--info}
 
 ## Three Pillars
 
@@ -35,14 +35,11 @@ Hi there! I'm **Ka Wing**, a Year 3 PhD Candidate at The Hong Kong Polytechnic U
 
 {: #research-publication}
 
-> Replace the `#` links and `[Paper title]` text with your full citation details, PDF URLs, and video URLs.
-
 ### Human-Robot Interaction & Tactile Design
 
 - **RO-MAN 2026:** *\[Paper title TBD\]* — [PDF](#){: .btn .btn--info .btn--small} [Video](#){: .btn .btn--info .btn--small}
-- **ICSR:** *\[Paper title TBD\]* — [PDF](#){: .btn .btn--info .btn--small} [Video](#){: .btn .btn--info .btn--small}
-- **ACED Design Challenge:** *\[Paper title TBD\]* — [PDF](#){: .btn .btn--info .btn--small}
-
+- **ICSR+Art 2026:** *\[Paper title TBD\]* — [PDF](#){: .btn .btn--info .btn--small} [Video](#){: .btn .btn--info .btn--small}
+- **ACED 2026:** *\[Tsang, K. W., Wang, Y., Zhu, A., & Luximon, Y. (2026). Tactile material preferences for quadruped robot companions: The role of ownership framing. The 5th Asian Conference for Ergonomics and Design]*
 ### Tech for Mental Health & Wellbeing
 
 - **CHI:** *\[Paper title TBD\]* — [PDF](#){: .btn .btn--info .btn--small} [Video](#){: .btn .btn--info .btn--small}
