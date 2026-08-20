@@ -13,9 +13,46 @@ $link-color: #53317B;
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
 @import "minimal-mistakes";
 
-.intro-bio {
+body {
+  font-family: "Source Sans 3", sans-serif;
+  font-size: 16px;
+  line-height: 1.65;
+}
+
+.page__content {
   font-size: 0.95rem;
-  line-height: 1.7;
+}
+
+.page__content p,
+.page__content li {
+  font-size: 0.95rem;
+}
+
+.page__title,
+.page__content h1,
+.page__content h2,
+.page__content h3,
+.masthead__site-title {
+  font-family: "Cormorant Garamond", serif;
+  letter-spacing: 0.02em;
+}
+
+.page__title {
+  font-size: 2.2rem;
+}
+
+.page__content h2 {
+  font-size: 1.55rem;
+}
+
+.page__content h3 {
+  font-size: 1.2rem;
+}
+
+.intro-bio {
+  font-size: 0.9rem;
+  line-height: 1.75;
+  color: #4a4453;
 }
 
 /* Photography marquee */
