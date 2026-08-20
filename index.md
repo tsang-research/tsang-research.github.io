@@ -67,17 +67,17 @@ Hi there! I'm **Ka Wing**, a Year 3 PhD Candidate at The Hong Kong Polytechnic U
 
 {: #community-participation}
 
-- **PolyU Student Representative:** Represented student interests in university governance.
-- **Junior Mentor:** Served as an active Student Councilor and Mindfulness Ambassador. Recipient of the *Professor Edmond Ko Scholarship for Student Mentoring* at HKUST.
-- **Scout Council:** Supported youth leadership and community programs in local community.
+- **PolyU Student Representative:** Represented student interests in university governance. [Profile]([https://example.com/paper.pdf](https://www.polyu.edu.hk/sao/student-development-section/student-participation-in-university-governance/the-list-of-council-student-member-and-student-representative-2025-26/health-and-dental-service/)){: .btn .btn--info .btn--small}
+- **Junior Mentor:** Served as an active Student Councilor and Mindfulness Ambassador. Recipient of the *Professor Edmond Ko Scholarship for Student Mentoring* at HKUST. [Profile]([https://example.com/paper.pdf](https://sfao.hkust.edu.hk/individual.php?l=86)){: .btn .btn--info .btn--small}
+- **Scout Council:** Supported youth leadership and community programs in local community. [Profile](https://www.stwscout.org/wp/%e5%8d%80%e5%8b%99%e5%a7%94%e5%93%a1%e6%9c%83/){: .btn .btn--info .btn--small}
 
 ## News
 
 {: #news}
 
-- **August 2026:** Won the **Gold Award** at *2026 ACED Human-Centered Design Challenge - Global Edition*.
-- **August 2026** Championing the voice of Hong Kong's design sector in the Policy Address Public Consultation.
-- **May 2026:** Awarded with *For Our Future Innovation and Technology Scholarship 2025/26*, receiving HKD80,000 in support of his STEM research project, Designing for Touch: Sensory Affordances of Companion Robot Dog Skin in Human–Robot Interaction.
+- **August 2026:** Won the **Gold Award** at *2026 ACED Human-Centered Design Challenge - Global Edition*. [PDF](https://example.com/paper.pdf){: .btn .btn--info .btn--small}
+- **August 2026** Championing the voice of Hong Kong's design sector in the Policy Address Public Consultation. [PDF](https://example.com/paper.pdf){: .btn .btn--info .btn--small}
+- **May 2026:** Awarded with *For Our Future Innovation and Technology Scholarship 2025/26*, receiving HKD80,000 in support of his STEM research project, Designing for Touch: Sensory Affordances of Companion Robot Dog Skin in Human–Robot Interaction. [PDF](https://example.com/paper.pdf){: .btn .btn--info .btn--small}
 
 ## Contact
 
