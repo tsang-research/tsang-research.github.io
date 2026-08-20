@@ -1,7 +1,5 @@
 # TSANG, K.W
 
-**Human-Robot Interaction Researcher | Ergonomics Designer | Community Advocate**
-
 ![Ka Wing headshot](/assets/images/headshot.svg.JPG)
 
 <p class="intro-bio">
