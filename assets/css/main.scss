@@ -57,13 +57,6 @@ body {
 
 /* Pillar Grid */ 
 
-pillar-grid {
-  display: grid;
-  grid-template-columns: repeat(3, minmax(0, 1fr));
-  gap: 1.5rem;
-  margin: 1.5rem 0 2rem;
-}
-
 .pillar-card {
   position: relative;
   display: block;
@@ -71,7 +64,6 @@ pillar-grid {
   border-radius: 14px;
   text-decoration: none;
   color: white;
-  background: #e9e3f0;
 }
 
 .pillar-card img {
@@ -100,12 +92,6 @@ pillar-grid {
   line-height: 1.1;
   color: #fff;
   text-shadow: 0 2px 10px rgba(0, 0, 0, 0.35);
-}
-
-@media (max-width: 768px) {
-  .pillar-grid {
-    grid-template-columns: 1fr;
-  }
 }
 
 /* Photography marquee */
