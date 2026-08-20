@@ -70,3 +70,9 @@ I am a multidisciplinary researcher and designer bridging the gap between human-
 - **Email:** `your-email@example.com`
 - **LinkedIn:** `https://www.linkedin.com/in/your-linkedin-handle`
 - **Google Scholar:** `https://scholar.google.com/citations?user=YOUR_SCHOLAR_ID`
+
+## Photography
+
+A rolling collection of moments from behind the lens. Replace the placeholders below with your own photographs.
+
+![Photography sample 1](/assets/images/photo-1.svg) ![Photography sample 2](/assets/images/photo-2.svg) ![Photography sample 3](/assets/images/photo-3.svg) ![Photography sample 4](/assets/images/photo-4.svg) ![Photography sample 5](/assets/images/photo-5.svg) ![Photography sample 6](/assets/images/photo-6.svg) ![Photography sample 1](/assets/images/photo-1.svg) ![Photography sample 2](/assets/images/photo-2.svg) ![Photography sample 3](/assets/images/photo-3.svg) ![Photography sample 4](/assets/images/photo-4.svg) ![Photography sample 5](/assets/images/photo-5.svg) ![Photography sample 6](/assets/images/photo-6.svg)
