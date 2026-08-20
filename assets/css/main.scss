@@ -57,7 +57,7 @@ body {
 
 /* Pillar Grid */ 
 
-.pillar-grid {
+pillar-grid {
   display: grid;
   grid-template-columns: repeat(3, minmax(0, 1fr));
   gap: 1.5rem;
@@ -67,10 +67,11 @@ body {
 .pillar-card {
   position: relative;
   display: block;
-  text-decoration: none;
-  color: white;
   overflow: hidden;
   border-radius: 14px;
+  text-decoration: none;
+  color: white;
+  background: #e9e3f0;
 }
 
 .pillar-card img {
@@ -78,32 +79,27 @@ body {
   width: 100%;
   aspect-ratio: 4 / 5;
   object-fit: cover;
-  transition: transform 0.25s ease;
 }
 
 .pillar-card::after {
   content: "";
   position: absolute;
   inset: 0;
-  background: linear-gradient(to top, rgba(0, 0, 0, 0.45), rgba(0, 0, 0, 0.08));
+  background: linear-gradient(to top, rgba(0, 0, 0, 0.35), rgba(0, 0, 0, 0.08));
 }
 
-.pillar-card span {
+.pillar-card__label {
   position: absolute;
   top: 1rem;
   left: 1rem;
   right: 1rem;
   z-index: 1;
   font-family: "Cormorant Garamond", serif;
-  font-size: 1.35rem;
+  font-size: 1.25rem;
   font-weight: 600;
   line-height: 1.1;
-  color: white;
+  color: #fff;
   text-shadow: 0 2px 10px rgba(0, 0, 0, 0.35);
-}
-
-.pillar-card:hover img {
-  transform: scale(1.04);
 }
 
 @media (max-width: 768px) {
