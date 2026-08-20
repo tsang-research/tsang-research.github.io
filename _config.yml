@@ -19,7 +19,6 @@ timezone: "Etc/UTC"
 # Build settings
 markdown: kramdown
 highlighter: rouge
-permalink: "/:title/"
 
 include:
   - _pages
