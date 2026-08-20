@@ -154,3 +154,55 @@ body {
     animation: none;
   }
 }
+
+.photo-marquee__track:hover {
+  animation-play-state: paused;
+}
+
+.photo-marquee__item {
+  display: block;
+  flex: 0 0 auto;
+  margin-right: 1rem;
+}
+
+.photo-marquee__item img {
+  display: block;
+  width: 240px;
+  height: 150px;
+  border-radius: 4px;
+  object-fit: cover;
+  cursor: zoom-in;
+}
+
+.photo-lightbox {
+  position: fixed;
+  inset: 0;
+  z-index: 9999;
+  display: none;
+  align-items: center;
+  justify-content: center;
+  background: rgba(0, 0, 0, 0.82);
+  padding: 2rem;
+}
+
+.photo-lightbox.is-open {
+  display: flex;
+}
+
+.photo-lightbox img {
+  max-width: min(92vw, 1400px);
+  max-height: 90vh;
+  border-radius: 6px;
+  box-shadow: 0 12px 40px rgba(0, 0, 0, 0.35);
+}
+
+.photo-lightbox__close {
+  position: absolute;
+  top: 1rem;
+  right: 1.25rem;
+  background: transparent;
+  border: 0;
+  color: white;
+  font-size: 2rem;
+  line-height: 1;
+}
