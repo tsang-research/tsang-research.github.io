@@ -72,3 +72,5 @@ analytics:
   google:
     tracking_id: "G-GM5JCGXN59"
     anonymize_ip: false
+
+logo: /assets/img/logo.svg
