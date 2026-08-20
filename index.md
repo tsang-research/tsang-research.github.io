@@ -12,7 +12,7 @@ Hi there! I'm **Ka Wing**, a Year 3 PhD Candidate at The Hong Kong Polytechnic U
 
 [Email Me](kawing-sd.tsang@connect.polyu.hk) {: .btn .btn--info}
 
-## Three Pillars
+## The Three Pillars of My PhD Journey
 
 <div class="pillar-grid">
   <a class="pillar-card" href="#research-publication">
