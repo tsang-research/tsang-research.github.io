@@ -37,8 +37,6 @@ Research Focus: My doctoral research currently addresses a vital blind spot in t
 
 ## Research & Publication
 
-{: #research-publication}
-
 ### Human-Robot Interaction & Tactile Design
 
 - **RO-MAN:** ***Tsang, K. W.**, Zhu, A., Wang, Y., & Luximon, Y. (2026). Tactile zoning for quadruped companion robots: User expectations and body-region material mappings. The 35th IEEE International Conference on Robot and Human Interactive Communication.*
@@ -59,7 +57,6 @@ Research Focus: My doctoral research currently addresses a vital blind spot in t
 
 ## Design & Innovation Award
 
-{: #design-innovation}
 
 - **Gold Award at 2026 ACED Human-Centered Design Challenge - Global Edition:** *Turns Teaching into Award-Winning Innovation.* Developed a lightweight upper-limb powered exoskeleton prototype designed to alleviate shoulder strain and physical workload for middle-aged and elderly designers.
 - **BOC Fintech Hackathon Young Talent Award:** Delivered an online banking customer experience improvement proposal to CIO of Bank of China.
@@ -69,7 +66,6 @@ Research Focus: My doctoral research currently addresses a vital blind spot in t
 
 ## Community Participation
 
-{: #community-participation}
 
 - **PolyU Student Representative:** Represented student interests in university governance. [Website]((https://www.polyu.edu.hk/sao/student-development-section/student-participation-in-university-governance/the-list-of-council-student-member-and-student-representative-2025-26/health-and-dental-service/)){: .btn .btn--info .btn--small}
 - **Junior Mentor:** Served as an active Student Councilor and Mindfulness Ambassador. Recipient of the *Professor Edmond Ko Scholarship for Student Mentoring* at HKUST. [Website]((https://sfao.hkust.edu.hk/individual.php?l=86)){: .btn .btn--info .btn--small}
@@ -77,7 +73,6 @@ Research Focus: My doctoral research currently addresses a vital blind spot in t
 
 ## News
 
-{: #news}
 
 - **August 2026:** Won the ***Gold Award at 2026 ACED Human-Centered Design Challenge - Global Edition***. [Instagram](https://www.instagram.com/p/DcLQ2i4lK9L/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==){: .btn .btn--info .btn--small} [Facebook](https://www.facebook.com/polyugs/posts/pfbid033oEQ7noGB3kPXCm9TuTRZfYsYcugtQTQVcom6RGTeNhPUmJpuDUS4sv2hCidHEFPl?rdid=fF1satRCIzkRdbuI#){: .btn .btn--info .btn--small} [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7495415388525080576){: .btn .btn--info .btn--small}
 - **August 2026** Championing the voice of Hong Kong's design sector in the Policy Address Public Consultation. [TV](https://www.i-cable.com/新聞資訊/490411/地區諮詢會-廠商憂北都項目門檻高-李家超-洪){: .btn .btn--info .btn--small} [News](https://www.stheadline.com/politics/3600084/%E6%9D%8E%E5%AE%B6%E8%B6%85%E5%87%BA%E5%B8%AD%E5%9C%B0%E5%8D%80%E8%AB%AE%E8%A9%A2%E6%9C%83-%E5%BC%B7%E8%AA%BF%E5%8C%97%E9%83%BD%E5%A4%A7%E5%AD%B8%E5%9F%8E%E6%98%AF%E9%A6%99%E6%B8%AF%E5%8D%87%E7%B4%9A%E8%BD%89%E5%9E%8B%E9%97%9C%E9%8D%B5-%E9%9D%92%E5%B9%B4%E5%98%86%E7%95%A2%E6%A5%AD%E6%90%B5%E5%B7%A5%E9%9B%A3){: .btn .btn--info .btn--small} 
@@ -85,7 +80,6 @@ Research Focus: My doctoral research currently addresses a vital blind spot in t
 
 ## Contact
 
-{: #contact}
 
 [View Google Scholar](https://scholar.google.com/citations?user=YOUR_SCHOLAR_ID){: .btn .btn--info} [Email Me](kawing-sd.tsang@connect.polyu.hk){: .btn .btn--info}
 
