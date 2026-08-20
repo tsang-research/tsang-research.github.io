@@ -23,7 +23,7 @@ Hi there! I'm **Ka Wing**, a Year 3 PhD Candidate at The Hong Kong Polytechnic U
   </a>
 
   <a class="pillar-card" href="#design-innovation">
-    <img src="/assets/images/pillar-designer.jpg" alt="Designer pillar">
+    <img src="/assets/images/pillar-designer.jpeg" alt="Designer pillar">
 
   </a>
 
