@@ -39,7 +39,8 @@ Hi there! I'm **Ka Wing**, a Year 3 PhD Candidate at The Hong Kong Polytechnic U
 
 - **RO-MAN 2026:** *\[Paper title TBD\]* — [PDF](#){: .btn .btn--info .btn--small} [Video](#){: .btn .btn--info .btn--small}
 - **ICSR+Art 2026:** *\[Paper title TBD\]* — [PDF](#){: .btn .btn--info .btn--small} [Video](#){: .btn .btn--info .btn--small}
-- **ACED 2026:** *\[Tsang, K. W., Wang, Y., Zhu, A., & Luximon, Y. (2026). Tactile material preferences for quadruped robot companions: The role of ownership framing. The 5th Asian Conference for Ergonomics and Design]*
+- **ACED 2026:** *\Tsang, K. W., Wang, Y., Zhu, A., & Luximon, Y. (2026). Tactile material preferences for quadruped robot companions: The role of ownership framing. The 5th Asian Conference for Ergonomics and Design*
+- 
 ### Tech for Mental Health & Wellbeing
 
 - **CHI:** *\[Paper title TBD\]* — [PDF](#){: .btn .btn--info .btn--small} [Video](#){: .btn .btn--info .btn--small}
