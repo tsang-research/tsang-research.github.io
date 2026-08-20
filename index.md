@@ -6,7 +6,9 @@
 
 ![Ka Wing headshot](/assets/images/headshot.svg){: .align-right width="180"}
 
-I am a multidisciplinary researcher and designer bridging the gap between human-centered technology and social impact. Currently a PhD Candidate in Design at PolyU, my work focuses on empathetic human-robot interaction and tactile design. With a background in business strategy (EY, Deloitte) and technology leadership, I am passionate about translating rigorous academic research into real-world applications that empower communities.
+<p class="intro-bio">
+  I am a multidisciplinary researcher and designer bridging the gap between human-centered technology and social impact. Currently a PhD Candidate in Design at PolyU, my work focuses on empathetic human-robot interaction and tactile design. With a background in business strategy (EY, Deloitte) and technology leadership, I am passionate about translating rigorous academic research into real-world applications that empower communities.
+</p>
 
 [Download CV](/assets/cv.pdf){: .btn .btn--primary} [Email Me](mailto:your-email@example.com){: .btn .btn--info}
 
