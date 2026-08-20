@@ -37,7 +37,6 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
-  - jekyll-feed
   - jekyll-include-cache
   - jekyll-remote-theme
 
@@ -58,10 +57,10 @@ footer:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
-      url: "mailto:your-email@example.com"
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/your-linkedin-handle"
+      url: "mailto:kawing-sd.tsang@connect.polyu.hk"
+    - label: "AEDLAB"
+      icon: "fab fa-fw fa-Website"
+      url: "https://www.sd.polyu.edu.hk/aedlab/#:~:text=Asian%20Ergonomics%20Design%20Laboratory%20(AEDLAB),in%20the%20field%20of%20design."
     - label: "Google Scholar"
       icon: "fas fa-fw fa-graduation-cap"
       url: "https://scholar.google.com/citations?user=YOUR_SCHOLAR_ID"
