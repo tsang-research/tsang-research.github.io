@@ -12,7 +12,7 @@ I am a researcher and designer dedicated to making human-robot interactions more
 Currently, my doctoral research tackles a critical gap in companion robotics: tactile design. I investigate how the physical "feel" of a quadruped robot dog influences user expectations and emotional attachment. Rather than settling for the hard, durable plastics standard in engineering, I explore how tactile materiality can be designed to offer comfort and reassurance. Ultimately, my mission is to design attachment-oriented robots that serve as long-term companions for human wellbeing, rather than just short-term novelties.
 </p>
 
-[Download CV](/assets/cv.pdf){: .btn .btn--primary} [Email Me](mailto:your-email@example.com){: .btn .btn--info}
+[Email Me](kawing-sd.tsang@connect.polyu.hk){: .btn .btn--info}
 
 ## Three Pillars
 
