@@ -55,6 +55,47 @@ body {
   color: #4a4453;
 }
 
+.pillar-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 1.5rem;
+  margin: 1.5rem 0 2rem;
+}
+
+.pillar-card {
+  display: block;
+  text-align: center;
+  text-decoration: none;
+  color: inherit;
+}
+
+.pillar-card img {
+  display: block;
+  width: 100%;
+  max-width: 260px;
+  margin: 0 auto 0.75rem;
+  border-radius: 12px;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.pillar-card:hover img {
+  transform: translateY(-4px);
+  box-shadow: 0 12px 24px rgba(83, 49, 123, 0.18);
+}
+
+.pillar-card span {
+  display: block;
+  font-family: "Cormorant Garamond", serif;
+  font-size: 1.1rem;
+  color: #53317B;
+}
+
+@media (max-width: 768px) {
+  .pillar-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
 /* Photography marquee */
 .photo-marquee {
   overflow: hidden;
