@@ -7,7 +7,7 @@
 <p class="intro-bio">
 Hi there! I'm Ka Wing.
 
-I am a researcher and designer dedicated to making human-robot interactions more empathetic and emotionally meaningful. I bring a highly interdisciplinary background to my work—from earning a BBA and an MPhil in Engineering at HKUST (where I first fell in love with HCI), to driving tech-based business transformation as a management consultant. PolyU Design is now my academic home, nurturing my focus on ergonomics and human-centered design.
+I am a researcher and designer dedicated to making human-robot interactions more empathetic and emotionally meaningful. I bring a highly interdisciplinary background to my work, from earning a BBA and an MPhil in Engineering at HKUST (where I first fell in love with HCI), to driving tech-based business transformation as a management consultant (in Deloitte and EY). PolyU Design is now my academic home, nurturing my focus on ergonomics and human-centered design.
 
 Currently, my doctoral research tackles a critical gap in companion robotics: tactile design. I investigate how the physical "feel" of a quadruped robot dog influences user expectations and emotional attachment. Rather than settling for the hard, durable plastics standard in engineering, I explore how tactile materiality can be designed to offer comfort and reassurance. Ultimately, my mission is to design attachment-oriented robots that serve as long-term companions for human wellbeing, rather than just short-term novelties.
 </p>
