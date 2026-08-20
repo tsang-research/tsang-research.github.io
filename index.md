@@ -75,4 +75,19 @@ I am a multidisciplinary researcher and designer bridging the gap between human-
 
 A rolling collection of moments from behind the lens. Replace the placeholders below with your own photographs.
 
-![Photography sample 1](/assets/images/photo-1.svg) ![Photography sample 2](/assets/images/photo-2.svg) ![Photography sample 3](/assets/images/photo-3.svg) ![Photography sample 4](/assets/images/photo-4.svg) ![Photography sample 5](/assets/images/photo-5.svg) ![Photography sample 6](/assets/images/photo-6.svg) ![Photography sample 1](/assets/images/photo-1.svg) ![Photography sample 2](/assets/images/photo-2.svg) ![Photography sample 3](/assets/images/photo-3.svg) ![Photography sample 4](/assets/images/photo-4.svg) ![Photography sample 5](/assets/images/photo-5.svg) ![Photography sample 6](/assets/images/photo-6.svg)
+<div class="photo-marquee">
+  <div class="photo-marquee__track">
+    <img src="/assets/images/photo-1.svg" alt="Photography sample 1">
+    <img src="/assets/images/photo-2.svg" alt="Photography sample 2">
+    <img src="/assets/images/photo-3.svg" alt="Photography sample 3">
+    <img src="/assets/images/photo-4.svg" alt="Photography sample 4">
+    <img src="/assets/images/photo-5.svg" alt="Photography sample 5">
+    <img src="/assets/images/photo-6.svg" alt="Photography sample 6">
+    <img src="/assets/images/photo-1.svg" alt="Photography sample 1">
+    <img src="/assets/images/photo-2.svg" alt="Photography sample 2">
+    <img src="/assets/images/photo-3.svg" alt="Photography sample 3">
+    <img src="/assets/images/photo-4.svg" alt="Photography sample 4">
+    <img src="/assets/images/photo-5.svg" alt="Photography sample 5">
+    <img src="/assets/images/photo-6.svg" alt="Photography sample 6">
+  </div>
+</div>
