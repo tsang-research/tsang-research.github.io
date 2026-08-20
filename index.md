@@ -54,7 +54,7 @@ Hi there! I'm Ka Wing, a Year 3 PhD Candidate at The Hong Kong Polytechnic Unive
 ## Design & Innovation Award
 
 
-- **Gold Award at 2026 ACED Human-Centered Design Challenge - Global Edition:** *Turned Teaching into Award-Winning Innovation.* Developed a lightweight upper-limb powered exoskeleton prototype designed to alleviate shoulder strain and physical workload for middle-aged and elderly designers.
+- **Gold Award at 2026 ACED Human-Centered Design Challenge - Global Edition:** *Turning Teaching into Award-Winning Innovation.* Developed a lightweight upper-limb powered exoskeleton prototype designed to alleviate shoulder strain and physical workload for middle-aged and elderly designers.
 - **BOC Fintech Hackathon Young Talent Award:** Delivered an online banking customer experience improvement proposal to CIO of Bank of China.
 - **HKUST 1 Million Dollar Entrepreneurship Competition Best Student Team Award:** Co-founded the first local ADHD and Autism AI-powered screening tool, shaping the go-to-market strategy partnerships with clinics.
 - **Science Park Technology and Entrepreneurship Programme Grantee 2019**: receiving HKD100,000 in support of his innovation project.
