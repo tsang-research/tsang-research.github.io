@@ -59,7 +59,7 @@ footer:
       icon: "fas fa-fw fa-envelope"
       url: "mailto:kawing-sd.tsang@connect.polyu.hk"
     - label: "AEDLAB"
-      icon: "fab fa-fw fa-Website"
+      icon: "fas fa-fw fa-laptop"
       url: "https://www.sd.polyu.edu.hk/aedlab/#:~:text=Asian%20Ergonomics%20Design%20Laboratory%20(AEDLAB),in%20the%20field%20of%20design."
     - label: "Google Scholar"
       icon: "fas fa-fw fa-graduation-cap"
