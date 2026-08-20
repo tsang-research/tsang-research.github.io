@@ -6,8 +6,8 @@ search: false
 @charset "utf-8";
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
-$info-color: #7852a9;
-$link-color: #7852a9;
+$info-color: #53317B;
+$link-color: #53317B;
 @import "minimal-mistakes";
 
 /* Photography marquee */
