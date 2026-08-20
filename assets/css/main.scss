@@ -11,6 +11,11 @@ $link-color: #53317B;
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
 @import "minimal-mistakes";
 
+.intro-bio {
+  font-size: 0.95rem;
+  line-height: 1.7;
+}
+
 /* Photography marquee */
 .photo-marquee {
   overflow: hidden;
