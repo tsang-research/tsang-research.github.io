@@ -40,7 +40,7 @@ Hi there! I'm **Ka Wing**, a Year 3 PhD Candidate at The Hong Kong Polytechnic U
 - **RO-MAN:** ***Tsang, K. W.**, Zhu, A., Wang, Y., & Luximon, Y. (2026). Tactile zoning for quadruped companion robots: User expectations and body-region material mappings. The 35th IEEE International Conference on Robot and Human Interactive Communication.*
 - **ICSR+Art:** ***Tsang, K. W.**, Wang, Y., Zhang, K., & Luximon, Y. (2026). Toward attachment-oriented robot skin design: A conceptual framework and exploratory study. The 18th International Conference on Social Robotics.*
 - **ACED:** ***Tsang, K. W.**, Wang, Y., Zhu, A., & Luximon, Y. (2026). Tactile material preferences for quadruped robot companions: The role of ownership framing. The 5th Asian Conference for Ergonomics and Design.*
-- 
+
 ### Tech for Mental Health & Wellbeing
 
 - **AAIC:** *Zhu, A., **Tsang, K. W.**, & Luximon, Y. (2026). Personalized Cognitive Stimulation Via Generative AI For Older Adults With Subjective Cognitive Decline: An fNIRS Study. The 2026 Alzheimer’s Association International Conference.* 
