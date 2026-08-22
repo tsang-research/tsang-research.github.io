@@ -65,6 +65,9 @@ footer:
       icon: "fas fa-fw fa-graduation-cap"
       url: "https://scholar.google.com/citations?user=YOUR_SCHOLAR_ID"
 
+atom_feed:
+  hide: true
+
 analytics:
   provider: "google-gtag"
   google:
