@@ -94,7 +94,6 @@ In many ways, this way of seeing also shapes how I approach research.
     <a class="photo-marquee__item" href="/assets/images/photo-3.jpg"><img src="/assets/images/photo-3.jpg" alt="Travel photo 3"></a>
     <a class="photo-marquee__item" href="/assets/images/photo-4.jpg"><img src="/assets/images/photo-4.jpg" alt="Travel photo 4"></a>
     <a class="photo-marquee__item" href="/assets/images/photo-5.jpg"><img src="/assets/images/photo-5.jpg" alt="Travel photo 5"></a>
-    <a class="photo-marquee__item" href="/assets/images/photo-6.jpg"><img src="/assets/images/photo-6.jpg" alt="Travel photo 6"></a>
     <a class="photo-marquee__item" href="/assets/images/photo-7.jpg"><img src="/assets/images/photo-7.jpg" alt="Travel photo 7"></a>
     <a class="photo-marquee__item" href="/assets/images/photo-8.jpg"><img src="/assets/images/photo-8.jpg" alt="Travel photo 8"></a>
 
@@ -103,7 +102,6 @@ In many ways, this way of seeing also shapes how I approach research.
     <a class="photo-marquee__item" href="/assets/images/photo-3.jpg"><img src="/assets/images/photo-3.jpg" alt="Travel photo 3"></a>
     <a class="photo-marquee__item" href="/assets/images/photo-4.jpg"><img src="/assets/images/photo-4.jpg" alt="Travel photo 4"></a>
     <a class="photo-marquee__item" href="/assets/images/photo-5.jpg"><img src="/assets/images/photo-5.jpg" alt="Travel photo 5"></a>
-    <a class="photo-marquee__item" href="/assets/images/photo-6.jpg"><img src="/assets/images/photo-6.jpg" alt="Travel photo 6"></a>
     <a class="photo-marquee__item" href="/assets/images/photo-7.jpg"><img src="/assets/images/photo-7.jpg" alt="Travel photo 7"></a>
     <a class="photo-marquee__item" href="/assets/images/photo-8.jpg"><img src="/assets/images/photo-8.jpg" alt="Travel photo 8"></a>
   </div>
