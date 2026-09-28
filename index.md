@@ -78,7 +78,7 @@ Hi there! I'm Ka Wing, a Year 3 PhD Candidate at The Hong Kong Polytechnic Unive
 ## Contact
 
 
-[View Google Scholar](https://scholar.google.com/citations?user=YOUR_SCHOLAR_ID){: .btn .btn--info} [Email Me](mailto:kawing-sd.tsang@connect.polyu.hk){: .btn .btn--info}
+ [Email Me](mailto:kawing-sd.tsang@connect.polyu.hk){: .btn .btn--info}
 
 
 ## Photography
