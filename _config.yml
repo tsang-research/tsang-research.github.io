@@ -61,9 +61,8 @@ footer:
     - label: "AEDLAB"
       icon: "fas fa-fw fa-laptop"
       url: "https://www.sd.polyu.edu.hk/aedlab/#:~:text=Asian%20Ergonomics%20Design%20Laboratory%20(AEDLAB),in%20the%20field%20of%20design."
-    - label: "Google Scholar"
-      icon: "fas fa-fw fa-graduation-cap"
-      url: "https://scholar.google.com/citations?user=YOUR_SCHOLAR_ID"
+
+      
 
 atom_feed:
   hide: true
